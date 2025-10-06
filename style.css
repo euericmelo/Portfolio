@@ -4,7 +4,7 @@
     box-sizing:border-box;
     }
     body{
-    background-color:#211B00;
+    background-color:#000000;
     }
     main{
     margin:8px;
@@ -41,7 +41,8 @@
     color:#808087;
     }
     p{
-    color:#808087;
+    color:#bbbbc5;
+    margin: 8px;
     }
     .redes{
     display:flex;
@@ -61,8 +62,10 @@
     margin: 6px;
     }
     .skills{
-    display:flex;
-    
+   display: flex;
+   justify-content: center;
+   margin: 0 auto;
+   display:flex;
     }
     .skills img{
     display: flex;
@@ -73,7 +76,7 @@
     background-color:black;
     text-align:center;
     padding:18px;
-    margin: 6px;
+    margin: 8px;
     border-radius:8px;
     transition: all 0.4s ease;
     }
@@ -88,12 +91,10 @@
     .projeto1 img{
     border-radius:10px 0 10px 0;
     }
-    /*.projeto1:hover{
-    box-shadow:3px;
-    transform:translateY(-4px) scale(1.2); */
-    }
     .projeto2{
-    background-color:#211B00;
+    background-color:#000000;
+    margin: 15px;
+    padding: 2px;
     }
     .projeto2 a{
     text-decoration:none;
@@ -112,9 +113,7 @@
     }
     .contato2 a{
     text-decoration:none;
-    
     color:white;
-    
     }
     footer{
     text-align:center;
