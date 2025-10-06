@@ -1,0 +1,126 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    }
+    body{
+    background-color:#211B00;
+    }
+    main{
+    margin:8px;
+    }
+    .logo img{
+    margin: 0 auto;
+    width:180px;
+    padding:2rem;
+    display:flex;
+    justify-content:center;
+    border-radius:100%;
+    } 
+    .nome{
+    color:red;
+    }
+    h1{
+    text-align: center;
+    font-size: 1.7rem;
+    color:white;
+    }
+    h2{
+    text-align: center;
+    font-size: 1.4rem;
+    color:white;
+    }
+    h3{
+    font-size: 1.1rem;
+    color:white;
+    }
+    .paragrafo1{
+    text-align:center;
+    font-size:1.1rem;
+    padding:10px;
+    color:#808087;
+    }
+    p{
+    color:#808087;
+    }
+    .redes{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    padding:15px;
+    gap:2rem;
+    }
+    .redes img{
+    width:40px;
+    }
+    .ss1{
+    background-color:black;
+    border-radius:8px;
+    padding:20px;
+    margin: 6px;
+    }
+    .skills{
+    display:flex;
+    
+    }
+    .skills img{
+    display: flex;
+    width:50px;
+    padding:10px;
+    }
+    .projetos{
+    background-color:black;
+    text-align:center;
+    padding:18px;
+    margin: 6px;
+    border-radius:8px;
+    transition: all 0.4s ease;
+    }
+    .projeto1{
+    background-color:#211B00;
+    text-align:center;
+    padding:20px 30px;
+    margin:10px;
+    margin-bottom: 15px;
+    border-radius:8px;
+    }
+    .projeto1 img{
+    border-radius:10px 0 10px 0;
+    }
+    /*.projeto1:hover{
+    box-shadow:3px;
+    transform:translateY(-4px) scale(1.2); */
+    }
+    .projeto2{
+    background-color:#211B00;
+    }
+    .projeto2 a{
+    text-decoration:none;
+    color:white;
+    }
+    .contato{
+    background-color:black;
+    text-align:center;
+    padding:22px;
+    margin: 6px;
+    border-radius:8px;
+    }
+    .contato2{
+    background-color:#211B00;
+    padding:8px
+    }
+    .contato2 a{
+    text-decoration:none;
+    
+    color:white;
+    
+    }
+    footer{
+    text-align:center;
+    color:white;
+    font-size:1.2rem;
+    padding:20px;
+    margin: 6px;
+    border-radius:5px;
+    }
