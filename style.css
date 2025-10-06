@@ -41,7 +41,7 @@
     color:#808087;
     }
     p{
-    color:#bbbbc5;
+    color:#c5bbbb;
     margin: 8px;
     }
     .redes{
@@ -99,7 +99,7 @@
     }
     .projeto2 a{
     text-decoration:none;
-    color:white;
+    color:red;
     }
     .contato{
     background-color:black;
@@ -116,7 +116,8 @@
     }
     .contato2 a{
     text-decoration:none;
-    color:white;
+    color:red;
+    font-weight: 300px;
     }
     footer{
     text-align:center;
